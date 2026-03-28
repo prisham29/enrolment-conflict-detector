@@ -1,0 +1,42 @@
+============================================================
+  ENROLMENT CONFLICT DETECTOR — AUTOMATED REPORT
+  Generated: 28 March 2026, 09:35 PM
+  Total bookings scanned: 10
+============================================================
+
+  SUMMARY
+  -------
+  Double booking: 2 issue(s)
+  Missing tutor: 2 issue(s)
+  Missing contact: 1 issue(s)
+
+  Total issues found: 5
+
+------------------------------------------------------------
+
+  FULL DETAILS
+  ------------
+
+  [1] [HIGH] Double booking
+       Booking(s): B001 and B002
+       Detail:     Mr. Patel is booked twice at Mon 9am
+
+  [2] [HIGH] Double booking
+       Booking(s): B003 and B008
+       Detail:     Ms. Taylor is booked twice at Mon 11am
+
+  [3] [HIGH] Missing tutor
+       Booking(s): B004
+       Detail:     Liam Park has no tutor assigned
+
+  [4] [HIGH] Missing tutor
+       Booking(s): B010
+       Detail:     Daniel Tran has no tutor assigned
+
+  [5] [MEDIUM] Missing contact
+       Booking(s): B006
+       Detail:     Tom Nguyen has no contact email
+
+============================================================
+  END OF REPORT
+============================================================
